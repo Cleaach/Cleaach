@@ -1,8 +1,8 @@
 # Hi, I'm Clement 👋
 
-I'm a Computer Science & Mathematics undergraduate at the **National University of Singapore** (GPA 4.75 / 5.00), building full-stack web apps, mobile AR experiences, and AI systems.
+I'm a Computer Science & Mathematics undergraduate at the **National University of Singapore**, interested in building full-stack apps.
 
-- 🔭 Currently: Full-Stack Developer @ Google Developer Group NUS & Teaching Assistant @ NUS
+- 🔭 Recently: Full-Stack Developer @ Google Developer Group NUS & Teaching Assistant @ NUS
 - 🌱 Studying: Algorithms, AI/ML, Real Analysis, and Linear Algebra
 - 💬 Ask me about: React, Express.js, PyTorch, or anything full-stack
 - 📫 Reach me: [clementaditya@gmail.com](mailto:clementaditya@gmail.com)
@@ -45,16 +45,6 @@ I'm a Computer Science & Mathematics undergraduate at the **National University 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**ARoundNUS**](https://clementchen.netlify.app/projects/aroundnus) | Cross-platform AR campus navigation app for iOS & Android | React Native, Expo, Express.js, Firebase |
-| [**Grid Universe AI Agent**](https://clementchen.netlify.app/projects/gridverse) | Autonomous agent with A* search + custom CNN for game-state reconstruction | Python, PyTorch, NumPy |
-| [**YOUtinerary**](https://clementchen.netlify.app/projects/youtinerary) | AI-powered itinerary generator with drag-and-drop planner | React, Express.js, GPT-4, Firebase |
 
 ---
 
